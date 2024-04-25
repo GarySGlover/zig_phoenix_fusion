@@ -1,0 +1,10 @@
+* Zig Template
+This is a template git repository for creating a Zig development environment using Nix Flakes.
+* Requirements
+- [[https://nixos.org/][Nix]] with the [[https://nixos.wiki/wiki/Flakes][Nix Flakes]] feature
+- [[https://direnv.net/][Direnv]]
+* Usage
+- Clone this repo.
+- Run ~~direnv allow~
+- Init the Zig project ~zig init~
+- Start coding
